@@ -1,0 +1,16 @@
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\bin\Debug\net5.0\RagiFirstConsoleApp.exe
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\bin\Debug\net5.0\RagiFirstConsoleApp.deps.json
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\bin\Debug\net5.0\RagiFirstConsoleApp.runtimeconfig.json
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\bin\Debug\net5.0\RagiFirstConsoleApp.runtimeconfig.dev.json
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\bin\Debug\net5.0\RagiFirstConsoleApp.dll
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\bin\Debug\net5.0\ref\RagiFirstConsoleApp.dll
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\bin\Debug\net5.0\RagiFirstConsoleApp.pdb
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\obj\Debug\net5.0\RagiFirstConsoleApp.csproj.AssemblyReference.cache
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\obj\Debug\net5.0\RagiFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\obj\Debug\net5.0\RagiFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\obj\Debug\net5.0\RagiFirstConsoleApp.AssemblyInfo.cs
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\obj\Debug\net5.0\RagiFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\obj\Debug\net5.0\RagiFirstConsoleApp.dll
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\obj\Debug\net5.0\ref\RagiFirstConsoleApp.dll
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\obj\Debug\net5.0\RagiFirstConsoleApp.pdb
+C:\Ragina Study\MyWorkSpace\StudyProjectGitRepoVS\RagiFirstConsoleApp\RagiFirstConsoleApp\obj\Debug\net5.0\RagiFirstConsoleApp.genruntimeconfig.cache
